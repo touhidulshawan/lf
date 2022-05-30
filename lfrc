@@ -61,7 +61,7 @@ map "'"
 map '"'
 map d
 
-map ex extract
+map ux extract
 
 # Basic Functions
 map . set hidden!
